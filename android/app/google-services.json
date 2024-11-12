@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "458441741771",
+    "firebase_url": "https://cw6-calvin-wong-default-rtdb.firebaseio.com",
+    "project_id": "cw6-calvin-wong",
+    "storage_bucket": "cw6-calvin-wong.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458441741771:android:a4519c8ba315a04000524e",
+        "android_client_info": {
+          "package_name": "com.example.cw6_cwong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH-1QHRbx3jHbU9JIRtfX9WBYpbk5-lxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
